@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../N2NProjectPython/.idea/N2NProjectPython.iml" filepath="$PROJECT_DIR$/../N2NProjectPython/.idea/N2NProjectPython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../N2NPythonProject/.idea/N2NPythonProject.iml" filepath="$PROJECT_DIR$/../N2NPythonProject/.idea/N2NPythonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PythonLearning.iml" filepath="$PROJECT_DIR$/.idea/PythonLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RobotFrameWorkLearnings/.idea/RobotFrameWorkLearnings.iml" filepath="$PROJECT_DIR$/../RobotFrameWorkLearnings/.idea/RobotFrameWorkLearnings.iml" />
+    </modules>
+  </component>
+</project>

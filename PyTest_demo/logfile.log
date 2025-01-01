@@ -1,0 +1,26 @@
+2024-12-13 17:26:03,998 :WARNING : PyTest_demo.test_logging :something is in warning mode
+2024-12-13 17:26:03,999 :ERROR : PyTest_demo.test_logging :A major has happened
+2024-12-13 17:26:03,999 :CRITICAL : PyTest_demo.test_logging :critival issue
+2024-12-13 17:26:04,000 :INFO : PyTest_demo.test_logging :Information statement 
+2024-12-13 17:26:04,000 :WARNING : PyTest_demo.test_logging :something is in warning mode
+2024-12-13 17:26:04,000 :ERROR : PyTest_demo.test_logging :A major has happened
+2024-12-13 17:26:04,000 :CRITICAL : PyTest_demo.test_logging :critival issue
+2024-12-13 19:13:30,838 :INFO : test_miltipleDataInput :23
+2024-12-13 19:13:30,845 :INFO : test_miltipleDataInput :20
+2024-12-13 19:13:30,845 :INFO : test_miltipleDataInput :20
+2024-12-13 19:13:30,855 :INFO : test_miltipleDataInput :24
+2024-12-13 19:13:30,855 :INFO : test_miltipleDataInput :24
+2024-12-13 19:13:30,855 :INFO : test_miltipleDataInput :24
+2024-12-13 19:15:55,676 :WARNING : PyTest_demo.test_logging :something is in warning mode
+2024-12-13 19:15:55,677 :ERROR : PyTest_demo.test_logging :A major has happened
+2024-12-13 19:15:55,677 :CRITICAL : PyTest_demo.test_logging :critival issue
+2024-12-13 19:15:55,677 :INFO : PyTest_demo.test_logging :Information statement 
+2024-12-13 19:15:55,677 :WARNING : PyTest_demo.test_logging :something is in warning mode
+2024-12-13 19:15:55,677 :ERROR : PyTest_demo.test_logging :A major has happened
+2024-12-13 19:15:55,677 :CRITICAL : PyTest_demo.test_logging :critival issue
+2024-12-13 19:15:55,846 :INFO : test_miltipleDataInput :23
+2024-12-13 19:15:55,857 :INFO : test_miltipleDataInput :20
+2024-12-13 19:15:55,857 :INFO : test_miltipleDataInput :20
+2024-12-13 19:15:55,866 :INFO : test_miltipleDataInput :24
+2024-12-13 19:15:55,866 :INFO : test_miltipleDataInput :24
+2024-12-13 19:15:55,866 :INFO : test_miltipleDataInput :24
