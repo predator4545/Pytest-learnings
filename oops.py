@@ -57,3 +57,4 @@ print(Example.class_var) # Output: 10 (unchanged class variable)
 #Via Class Name: For clarity and when you want to ensure you're working with the class variable.
 #Via Object Reference: For convenience, particularly when you don't know or care if the variable is defined at the instance or class level.
 #However, modifying class variables through object references can lead to confusion and unintended behavior. It’s generally better to use the class name for clarity when dealing with class variables.
+...
